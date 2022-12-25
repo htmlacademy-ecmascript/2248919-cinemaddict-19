@@ -1,7 +1,7 @@
 # Проект «Киноман»
 
-* Студент: [Dmitry Badenkov](https://up.htmlacademy.ru/ecmascript/19/user/2248919).
-* Наставник: `Неизвестно`.
+- Студент: [Dmitry Badenkov](https://up.htmlacademy.ru/ecmascript/19/user/2248919).
+- Наставник: Алексей Толстоног.
 
 ---
 
